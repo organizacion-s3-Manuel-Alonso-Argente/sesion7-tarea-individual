@@ -1,6 +1,6 @@
 # sesion7-tarea-individual
 # Exercicis tractament de dades
-#1.- Amb la BBDD Jardineria facilitada, crea i executa un script “actualitza.sql” que realitce les
+1.- Amb la BBDD Jardineria facilitada, crea i executa un script “actualitza.sql” que realitce les
 següents accions.
 1. Inclou una oficina amb seu a Fuenlabrada.
 2. Inclou un empleat per a l’oficina de Fuenlabrada que sigui representant de
@@ -12,14 +12,14 @@ dos productes amb una transacció.
 relacionades.
 6. Borra el client i verifica si hi ha canvits.
 
-#2.- Realitza les següents accions:
+2.- Realitza les següents accions:
 1. Borrar els clients que no tinguen comandes.
 2. Decrementa en un 20% el preu dels productes que no tinguen comandes.
 3. Esborra els pagaments del client amb menor límit de crèdit.
 4. Establir a 0 el límit de crèdit del client que menys unitats demanades tingui del
 producte `OR-179'.Borra los pagos del cliente con menor límite de crédito.
 
-#3.- Realiza las siguientes acciones:
+3.- Realiza las siguientes acciones:
 1. Borra el cliente que menor limite de crédito tenga. ¿Es posible borrarlo sólo
 con una consulta?
 2. Modifica la taula “DetallePedidos” per a inserir un camp numèric anomenat
